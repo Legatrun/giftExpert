@@ -12,3 +12,5 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 )
 
 // OsplqUAzsJ2Mmq8nHpZxg2YJvN8jKMnL
+// pasos para hacer el testing
+// https://gist.github.com/Klerith/ca7e57fae3c9ab92ad08baadc6c26177
